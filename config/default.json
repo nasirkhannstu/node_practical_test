@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://plutoNet:plutoNet@cluster0-gn7d3.mongodb.net/devteam?retryWrites=true&w=majority"
+}
